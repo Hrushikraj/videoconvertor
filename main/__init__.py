@@ -1,6 +1,6 @@
 from telethon import TelegramClient
-#from decouple 
-import config
+from python-dotenv import config
+# decouple
 import logging
 import time
 
