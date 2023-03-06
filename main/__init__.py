@@ -1,5 +1,5 @@
 from telethon import TelegramClient
-from decouple import config
+#from decouple import config
 import logging
 import time
 
