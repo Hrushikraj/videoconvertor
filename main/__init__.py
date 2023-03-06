@@ -1,5 +1,5 @@
 from telethon import TelegramClient
-from python-dotenv import config
+from dotenv import config
 # decouple
 import logging
 import time
